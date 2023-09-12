@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_size_variants",
+  "info": {
+    "displayName": "variants"
+  },
+  "options": {},
+  "attributes": {
+    "size": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "stock": {
+      "type": "integer"
+    },
+    "priceAdjustment": {
+      "type": "float"
+    }
+  }
+}
